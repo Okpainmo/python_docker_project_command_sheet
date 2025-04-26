@@ -6,7 +6,7 @@ A simple repository(mainly) containing a simple sheet with commands to streamlin
 >
 > How about getting help from AI?
 >
-> Me: 😒 - it' simply silly to keep running your head around, asking an AI helper for the same commands when working every new project.
+> Me: 😒 - it' simply silly to keep running your head around, asking an AI helper for the same commands when working on every new project.
 
 Feel free to star, fork(own a copy, and use for yourself), and contribute.
 
