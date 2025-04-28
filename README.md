@@ -4,7 +4,7 @@ A simple repository - mainly containing a sheet with commands, to streamline the
 
 > It's a frustrating thing when you have to keep struggling to find or recall basic project commands when working with Python. So I created this simple but powerful cheat-sheet, to help streamline the workflow process when I'm working on Python projects - with Docker. 
 >
-> How about asking AI helper?
+> How about asking an AI helper?
 >
 > Me: 😒 - it' simply silly to keep running your head around, asking an AI helper for the same commands when working on every new project.
 
