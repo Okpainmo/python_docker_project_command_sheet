@@ -1,4 +1,4 @@
-# Python Docker Project Command Sheet
+# Python Docker Project Command Sheet.
 
 A simple repository - mainly containing a sheet with commands, to streamline the workflow process when working on Python projects with Docker.
 
@@ -12,7 +12,7 @@ A simple repository - mainly containing a sheet with commands, to streamline the
 
 Feel free to star, fork(own a copy, and use for yourself), and contribute.
 
-## Before Contributing.
+## Before You Contribute.
 
 > This project will be a progressive one. I and any other contributors, will keep updating it with 
 > relevant(repetitive-tasks) commands - especially as I get to learn and explore Python 
