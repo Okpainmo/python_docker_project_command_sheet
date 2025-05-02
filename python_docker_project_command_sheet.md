@@ -1,6 +1,6 @@
 # Python Docker Project Command Sheet.
 
-This piece, is a simple sheet with commands to streamline the workflow process when working on Python projects - with Docker.
+This piece, is a simple sheet with commands to streamline the workflow process when working on Python projects and Docker.
 
 ## Python Basics
 
